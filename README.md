@@ -8,8 +8,8 @@
 Please, refer to the REST API slides for further information regarding the basic requirements.
 
 Do keep in mind that:
-- This is team work and the properties
-- Entities we are suggesting are just basic ones; feel free to add more.
+- This is team work 
+- The properties and entities we are suggesting are just basic ones; feel free to add more.
 
 Assignment delivery:
 
