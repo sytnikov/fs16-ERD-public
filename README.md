@@ -1,5 +1,12 @@
 # fs16-ERD
 
+## Back-end Squad 1
+
+ - Shtanko Yaroslav
+ - Md Shayemur Rahman
+ - Amjad Shakhshir
+ - Alexey Sytnikov
+
 ## Design ERD to your REST APIs
 
 - Library management system: books, users, and authors
